@@ -1,0 +1,3 @@
+C:\Users\user\OneDrive - 佐藤 智徳\workspace\MiniHomeServer\Version1.0\obj\Debug\Version1.0.njsproj.AssemblyReference.cache
+C:\Users\user\OneDrive - 佐藤 智徳\workspace\MiniHomeServer\Version1.0\obj\Debug\Version1.0.njsproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - 佐藤 智徳\workspace\MiniHomeServer\Version1.0\bin\Microsoft.NodejsTools.WebRole.dll
